@@ -8,11 +8,11 @@ body
 .container
 {
 	height: 1200px;
-	width: 1350px;
+	width: 1500px;
 	margin: 0px;
 	border: 2px ;
 	background-image: url(ww.webp) ;
-	background-size: 1350px 1200px;
+	background-size: 1500px 1200px;
 	background-color: babypink;
 
 }
